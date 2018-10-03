@@ -5,4 +5,5 @@ public class Test : MonoBehaviour
 {
 	private float test;
 	private float testDev;
+	private float testDev2;
 }
