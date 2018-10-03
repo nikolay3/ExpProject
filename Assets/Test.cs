@@ -6,3 +6,4 @@ public class Test : MonoBehaviour
 	private float test;
 	private float testDev;
 }
+add
