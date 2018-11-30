@@ -7,4 +7,5 @@ public class Test : MonoBehaviour
 	private float test1;
     private float test1;
 	private float test1;
+	private float test1;
 }
